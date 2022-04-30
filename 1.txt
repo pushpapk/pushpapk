@@ -1,0 +1,5 @@
+View(Ashgourd_2022)
+> mean(Ashgourd_2022$modal_price)
+[1] 2468.91
+> var(Ashgourd_2022$modal_price)
+[1] 7370659
